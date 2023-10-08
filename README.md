@@ -45,7 +45,3 @@
 - [国光的黑苹果安装教](https://apple.sqlsec.com)
 - [黑果小兵的部落阁](https://blog.daliansky.net)
 - 本 EFI 修改自 [corot2a的EFI](https://github.com/corot2a/Hackintosh-12700KF-B660M-MORTAR-6650XT)
-
-## 截图
-![](https://yleen.cc/usr/uploads/2023/09/2679737210.webp)
-![](https://yleen.cc/usr/uploads/2023/10/1648982921.webp)
